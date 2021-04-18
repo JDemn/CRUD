@@ -1,0 +1,29 @@
+body{
+    width: 715px;
+    margin:0 auto;
+}
+h1,h3{
+    text-align: center;
+}
+form{
+    width: 715px;
+}
+form>input{
+margin-bottom: 5px;
+}
+form>fieldset>input{
+    margin-bottom: 5px;
+}
+form>fieldset>button{
+    margin-top: 10px;
+    margin-right: auto;
+}
+
+h3{
+    margin-top: 10px;
+    font-size: 35px;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
